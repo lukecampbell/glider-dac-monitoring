@@ -1,7 +1,7 @@
-User Management
+Glider DAC Monitoring
 ===============
 
-Copyright (C) 2016 RPS ASA
+Copyright (C) 2017 RPS ASA
 See LICENSE for more details.
 
 Installing
